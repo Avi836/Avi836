@@ -40,50 +40,10 @@ Here are some ideas to get you started:
 3. Movie Recommendation System - *June 2023* 
 4. Autonomous Car Parking System for Parallel, Straight and Diagonal Parking - *Aug 2022*
 5. Python Based Face-Recognition Attendance System -  *May 2022*
-
 ---
-# HOBBIES
-•	Cooking
-•	Bodybuilding
-•	Calisthenics
-•	Swimming
-•	Drawing
-•	Shayari & Poetry
-•	Calligraphy 
-•	Singing
-•	Photography
-•	Youtuber
-•	Song Composer 
-•	EDM creation
-•	Space & Tech enthusiastic
-
+[instagram](https://www.instagram.com/tourist836/)
+[linkedIn](https://www.linkedin.com/in/avneesh-sharma-profile/)
+[FaceBook](https://www.facebook.com/avneesh.sharma.50951)
+[Twitter](https://twitter.com/tourist836)
+[Youtube](https://www.youtube.com/channel/UCvc2YSCvddaZPYSs4H1LCBQ)
 ---
-# EVENTS 
-- **Industrial Visit** - STMicroelectronics Private Limited - Sept 2023
-Department of Electronics and Communication Engineering
-Address: Plot No 1, Ecotech-II, Knowledge Park III, Greater Noida, Uttar Pradesh 201308
-
-- **Let's Talk: Equity, Diversity, Inclusion, Awareness** - Feb 2023
-Talk And Discussion Optica & SPIE – Manipal University Jaipur						
-
-- **Optica Traveling Lecturer Talk** - International Guest Speaker - Feb 2023
-Topic: 
-•	Modelling Of Nano Lasers
-•	A Look At Setting Up An International Career
-Speaker: Dr. Arti Agarwal (Optica Ambassador,University Of Technology Sydney)
-
-- **Project Expo 2022 Electronics Society** – Manipal University Jaipur - Nov 2022
-
-- **Optica SPIE Orientation Seminar** – Manipal University Jaipur - Oct 2022
-
-- **Lighton: Photography Contest Optica & SPIE** – Manipal University Jaipur - 21 - 30th Oct 2022
-
-- **Workshop On Machine Learning** - Optica & SPIE – Manipal University Jaipur - Oct 2022
-
-- **Industrial Visit** - Aksh Optifibre Limited (Reengus, Rajasthan) - Oct 2022		Optica & SPIE – Manipal University Jaipur 
-
-- **COMSOL Multi Physics Workshop** - Optica & SPIE – Manipal University Jaipur - Oct 2022
-
-- **Fundamentals Of Photonic Crystal Fibre** - Optica & SPIE – Manipal University Jaipur - Oct 2022
-
-- **Optical Fibres: Basics And Modelling** - Optica & SPIE – Manipal University Jaipur - Sept 2022
